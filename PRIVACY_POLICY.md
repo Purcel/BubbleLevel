@@ -13,7 +13,7 @@ information.
 
 The list of permissions required by the app can be found in the `AndroidManifest.xml` file:
 
-
+https://github.com/Purcel/BubbleLevel/blob/343b1d0b880e56e9e31b6adfdd8fda15ab38a5b1/app/src/main/AndroidManifest.xml#L8
 
 <br/>
 
